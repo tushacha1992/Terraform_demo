@@ -17,7 +17,7 @@ pipeline{
 							 branch "master"
 						   }
 						}
-					stpes{
+					steps{
 							echo "Hello"
 						 }
 			}
